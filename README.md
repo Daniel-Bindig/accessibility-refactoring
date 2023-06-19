@@ -12,9 +12,8 @@ N/A
 
 To use this webpage, you can click the links in the top right, in the nav-bar. When the link is clicked you will then be taken to the appropriate section within the webpage.
 
-```md
-![Screenshot of the webpage containing the navbar](./assets/images/Screenshot.png)
-```
+![ScreenShot](./assets/images/Screenshot.png)
+
 This webpage can be accessed using the following link: Daniel-Bindig.github.io/accessibility-refactoring
 
 ## Credits
