@@ -1,0 +1,135 @@
+ /*Set page size*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*Set background colour to #d9dcd6*/
+body {
+    background-color: #d9dcd6;
+} 
+
+/*Set the font for the header*/
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+} 
+
+/*Set the positioning and size for Heading*/
+h1 {
+    display: inline-block;
+    font-size: 48px;
+} 
+
+/*Set the letters "seo" in heading to a seperate colour*/
+#seo {
+    color: #d9dcd6;
+} 
+
+/*Set the positioning and font for the nav*/
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+} 
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/*Change colour and style of the link*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*Set picture size*/
+picture img{
+    width: 100%;
+    height: 800px;
+    margin-bottom: 25px;
+    
+}
+
+/*Set main postioniing*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+main img {
+    max-height: 200px
+}
+
+/*Set font and positioning for the information cards*/
+.information-cards {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.information-cards h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*Set the font and positioning for the side bar*/
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.side-card {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.side-card h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.side-card img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*Set the font and positioning for the footer*/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h4 {
+    font-size: 20px;
+}
