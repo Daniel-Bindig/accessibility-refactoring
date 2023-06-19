@@ -14,7 +14,7 @@ To use this webpage, you can click the links in the top right, in the nav-bar. W
 
 ![ScreenShot](./assets/images/Screenshot.png)
 
-This webpage can be accessed using the following link: Daniel-Bindig.github.io/accessibility-refactoring
+This webpage can be accessed using the following link: https://daniel-bindig.github.io/accessibility-refactoring/
 
 ## Credits
 
